@@ -1,4 +1,4 @@
 
-Link to platform: [https://thedojo-c5a97.web.app/] (The Dojo) 
+[The Dojo](https://thedojo-c5a97.web.app/login) 
 
 
